@@ -1,0 +1,6 @@
+C:\Projects\CdxLib\CdxLib.Core\bin\Windows Phone\Debug\CdxLib.Core.dll
+C:\Projects\CdxLib\CdxLib.Core\bin\Windows Phone\Debug\CdxLib.Core.pdb
+C:\Projects\CdxLib\CdxLib.Core\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Projects\CdxLib\CdxLib.Core\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Projects\CdxLib\CdxLib.Core\obj\Windows Phone\Debug\CdxLib.Core.dll
+C:\Projects\CdxLib\CdxLib.Core\obj\Windows Phone\Debug\CdxLib.Core.pdb

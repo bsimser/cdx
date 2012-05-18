@@ -1,0 +1,22 @@
+﻿1. 
+Add reference to System.Windows
+2. 
+Add reference to Windows.Phone
+3. 
+Add reference to CdxLib.Physics
+4. 
+Add reference to CdxLib.Core
+5. 
+private ScreenManager screenManager;
+6. 
+screenManager = new ScreenManager(this);//
+Components.Add(screenManager);//
+PhoneApplicationService.Current.Launching += GameLaunching;
+7.
+Add method GameLaunching
+8.
+in GameLaunching add: screenManager.AddScreen(new MainScreen(), null);
+9.
+create class MainScreen inherited from PhysicsGameScreen
+10.
+override LoadContent

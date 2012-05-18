@@ -1,0 +1,1 @@
+C:\Projects\CdxLib\CdxLib.Samples.Core\CdxLib.Samples.CoreContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

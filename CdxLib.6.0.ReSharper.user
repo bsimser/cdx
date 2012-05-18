@@ -1,0 +1,208 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:ScreenManager/f:SpriteFonts.cs" caret="3816" fromTop="12" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="35202" fromTop="14" />
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:ScreenManager/f:ScreenManager.cs" caret="3262" fromTop="11" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:DrinkMe.txt" caret="530" fromTop="22" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:Game1.cs" caret="15" fromTop="0" />
+      <File id="E58659CA-5938-4234-BD41-01600EEC27B8/d:Fonts/f:debugfont.spritefont" caret="667" fromTop="19" />
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:Screens/f:GameScreen.cs" caret="6177" fromTop="30" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:PhysicsGameScreen.cs" caret="210" fromTop="8" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="2333" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:Game1.cs" caret="111" fromTop="4" />
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:ScreenManager/f:ScreenManager.cs" caret="8402" fromTop="22" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:Game1.cs" caret="573" fromTop="15" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:Game1.cs" caret="1086" fromTop="24" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:DrinkMe.txt" caret="530" fromTop="22" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="2742" fromTop="17" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:PhysicsGameScreen.cs" caret="331" fromTop="12" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="2517" fromTop="0" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="465" fromTop="15" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="909" fromTop="28" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="34194" fromTop="19" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="36301" fromTop="19" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="36311" fromTop="20" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="35896" fromTop="11" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:PhysicsGameScreen.cs" caret="1684" fromTop="25" />
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:ScreenManager/f:SpriteFonts.cs" caret="3948" fromTop="34" />
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:ScreenManager/f:SpriteFonts.cs" caret="3878" fromTop="31" />
+      <File id="9941F91E-A2D8-472E-B1A8-1640E1B1DB90/d:ScreenManager/f:SpriteFonts.cs" caret="3649" fromTop="27" />
+      <File id="206D01DF-EFDB-4D08-875D-3DA70202882C/d:Screens/f:DebugViewXna.cs" caret="35202" fromTop="14" />
+      <File id="E58659CA-5938-4234-BD41-01600EEC27B8/d:Fonts/f:debugfont.spritefont" caret="531" fromTop="13" />
+      <File id="E58659CA-5938-4234-BD41-01600EEC27B8/d:Fonts/f:debugfont.spritefont" caret="679" fromTop="19" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="1698" fromTop="29" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="636" fromTop="12" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="0" fromTop="0" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="425" fromTop="14" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="1591" fromTop="26" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="2349" fromTop="31" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="2139" fromTop="18" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="1093" fromTop="5" />
+      <File id="41799A79-5FAC-44A7-AB47-BD16875A0611/f:MainScreen.cs" caret="2731" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="screenManager" priority="154" />
+      <Item value="new" priority="278" />
+      <Item value="ScreenManager" priority="213" />
+      <Item value="Components" priority="30" />
+      <Item value="MainScreen" priority="27" />
+      <Item value="base" priority="61" />
+      <Item value="World" priority="123" />
+      <Item value="var" priority="309" />
+      <Item value="body" priority="61" />
+      <Item value="Dynamic" priority="33" />
+      <Item value="graphics" priority="92" />
+      <Item value="true" priority="61" />
+      <Item value="DebugViewXna`0" priority="30" />
+      <Item value="_crate" priority="185" />
+      <Item value="ConvertUnits`0" priority="340" />
+      <Item value="DebugView" priority="30" />
+      <Item value="_screenManager" priority="123" />
+      <Item value="public" priority="30" />
+      <Item value="SpriteFont`0" priority="30" />
+      <Item value="BodyFactory`0" priority="30" />
+      <Item value="floor" priority="30" />
+      <Item value="crate" priority="154" />
+      <Item value="false" priority="30" />
+      <Item value="MathHelper`0" priority="30" />
+      <Item value="gameTime" priority="30" />
+      <Item value="private" priority="30" />
+      <Item value="_crateTexture" priority="61" />
+      <Item value="LoadContent`0" priority="30" />
+      <Item value="Texture2D`0" priority="30" />
+      <Item value="Vector2" priority="55" />
+      <Item value="Color`0" priority="61" />
+      <Item value="null" priority="61" />
+      <Item value="SpriteEffects`0" priority="30" />
+      <Item value="desintationRectangle" priority="31" />
+      <Item value="Rectangle" priority="27" />
+      <Item value="pos" priority="123" />
+      <Item value="sourceRectangle" priority="31" />
+      <Item value="Rectangle`0" priority="30" />
+      <Item value="Vector2`0" priority="30" />
+      <Item value="x" priority="30" />
+      <Item value="if" priority="30" />
+      <Item value="input" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameComponentCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Shell.PhoneApplicationService">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Shell.PhoneApplicationService">
+      <Item value="Launching" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CdxLib.Core.ScreenManager.ScreenManager">
+      <Item value="AddScreen`0" priority="26" />
+      <Item value="TraceEnabled" priority="26" />
+      <Item value="GraphicsDevice" priority="161" />
+      <Item value="Font" priority="26" />
+      <Item value="SpriteFonts" priority="27" />
+      <Item value="SpriteBatch" priority="53" />
+      <Item value="ContentManager" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CdxLib.Physics.Screens.PhysicsGameScreen">
+      <Item value="LoadContent`0" priority="26" />
+      <Item value="Draw`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FarseerPhysics.Dynamics.World">
+      <Item value="Gravity" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FarseerPhysics.Factories.BodyFactory">
+      <Item value="CreateBody`0" priority="26" />
+      <Item value="CreateRectangle`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FarseerPhysics.Dynamics.Body">
+      <Item value="BodyType" priority="53" />
+      <Item value="Position" priority="188" />
+      <Item value="SleepingAllowed" priority="26" />
+      <Item value="Rotation" priority="53" />
+      <Item value="Restitution" priority="26" />
+      <Item value="Friction" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="PreferredBackBufferHeight" priority="26" />
+      <Item value="PreferredBackBufferWidth" priority="26" />
+      <Item value="IsFullScreen" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="CornflowerBlue" priority="26" />
+      <Item value="White" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="108" />
+      <Item value="Y" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Vector2">
+      <Item value="UnitY" priority="26" />
+      <Item value="Zero" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CdxLib.Physics.Graphics.ConvertUnits">
+      <Item value="ToSimUnits`0" priority="296" />
+      <Item value="ToDisplayUnits`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CdxLib.Physics.Screens.DebugViewXna">
+      <Item value="AppendFlags`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FarseerPhysics.DebugViewFlags">
+      <Item value="DebugPanel" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CdxLib.Core.ScreenManager.SpriteFonts">
+      <Item value="DebugFont" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Single">
+      <Item value="CompareTo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.MathHelper">
+      <Item value="ToRadians`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Begin`0" priority="26" />
+      <Item value="End`0" priority="26" />
+      <Item value="Draw`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.SpriteEffects">
+      <Item value="None" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsDevice">
+      <Item value="Viewport" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Viewport">
+      <Item value="Width" priority="26" />
+      <Item value="Height" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CdxLib.Core.ScreenManager.InputState">
+      <Item value="IsKeyPressed`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

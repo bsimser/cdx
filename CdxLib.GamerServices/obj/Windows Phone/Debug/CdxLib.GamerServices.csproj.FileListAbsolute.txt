@@ -1,0 +1,8 @@
+C:\Projects\CdxLib\CdxLib.GamerServices\bin\Windows Phone\Debug\CdxLib.GamerServices.dll
+C:\Projects\CdxLib\CdxLib.GamerServices\bin\Windows Phone\Debug\CdxLib.GamerServices.pdb
+C:\Projects\CdxLib\CdxLib.GamerServices\bin\Windows Phone\Debug\CdxLib.Core.dll
+C:\Projects\CdxLib\CdxLib.GamerServices\bin\Windows Phone\Debug\CdxLib.Core.pdb
+C:\Projects\CdxLib\CdxLib.GamerServices\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Projects\CdxLib\CdxLib.GamerServices\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Projects\CdxLib\CdxLib.GamerServices\obj\Windows Phone\Debug\CdxLib.GamerServices.dll
+C:\Projects\CdxLib\CdxLib.GamerServices\obj\Windows Phone\Debug\CdxLib.GamerServices.pdb

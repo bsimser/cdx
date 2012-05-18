@@ -1,0 +1,9 @@
+C:\Projects\CdxLib\CdxLib.Physics\bin\Windows Phone\Debug\CdxLib.Physics.dll
+C:\Projects\CdxLib\CdxLib.Physics\bin\Windows Phone\Debug\CdxLib.Physics.pdb
+C:\Projects\CdxLib\CdxLib.Physics\bin\Windows Phone\Debug\CdxLib.Core.dll
+C:\Projects\CdxLib\CdxLib.Physics\bin\Windows Phone\Debug\FarseerPhysicsXNAWP7.dll
+C:\Projects\CdxLib\CdxLib.Physics\bin\Windows Phone\Debug\CdxLib.Core.pdb
+C:\Projects\CdxLib\CdxLib.Physics\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Projects\CdxLib\CdxLib.Physics\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Projects\CdxLib\CdxLib.Physics\obj\Windows Phone\Debug\CdxLib.Physics.dll
+C:\Projects\CdxLib\CdxLib.Physics\obj\Windows Phone\Debug\CdxLib.Physics.pdb

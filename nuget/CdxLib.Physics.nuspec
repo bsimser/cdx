@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.0.2</version>
+    <authors>Bil Simser</authors>
+    <owners>Bil Simser</owners>
+    <dependencies>
+      <dependency id="FarseerPhysicsXNAWP7" version="3.3.1.37294" />
+      <dependency id="CdxLib.Core" version="0.0.3" />
+    </dependencies>
+    <id>CdxLib.Physics</id>
+    <title>CdxLib.Physics</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CDX Lib is a set of helper classes and utilities to aid game developers building XNA games on the Windows Phone platoform.</description>
+    <summary />
+    <releaseNotes>Pre-release</releaseNotes>
+  </metadata>
+  <files>
+    <file src="lib\CdxLib.Physics.dll" target="lib\CdxLib.Physics.dll" />
+  </files>
+</package>
