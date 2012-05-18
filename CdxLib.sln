@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdxLib.Core", "CdxLib.Core\CdxLib.Core.csproj", "{9941F91E-A2D8-472E-B1A8-1640E1B1DB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdxLib.Physics", "CdxLib.Physics\CdxLib.Physics.csproj", "{206D01DF-EFDB-4D08-875D-3DA70202882C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdxLib.GamerServices", "CdxLib.GamerServices\CdxLib.GamerServices.csproj", "{AD2D4753-E956-4107-8BD4-09EAD10293BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdxLib.Samples.Physics", "CdxLib.Samples.Physics\CdxLib.Samples.Physics\CdxLib.Samples.Physics.csproj", "{41799A79-5FAC-44A7-AB47-BD16875A0611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdxLib.Samples.PhysicsContent", "CdxLib.Samples.Physics\CdxLib.Samples.PhysicsContent\CdxLib.Samples.PhysicsContent.contentproj", "{E58659CA-5938-4234-BD41-01600EEC27B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdxLib.Samples.Core", "CdxLib.Samples.Core\CdxLib.Samples.Core\CdxLib.Samples.Core.csproj", "{1BFD539E-26CE-40C4-B686-850669E82916}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CdxLib.Samples.CoreContent", "CdxLib.Samples.Core\CdxLib.Samples.CoreContent\CdxLib.Samples.CoreContent.contentproj", "{39565DD4-58B7-4CAD-BD13-BC7966969EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9941F91E-A2D8-472E-B1A8-1640E1B1DB90}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{9941F91E-A2D8-472E-B1A8-1640E1B1DB90}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{9941F91E-A2D8-472E-B1A8-1640E1B1DB90}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{9941F91E-A2D8-472E-B1A8-1640E1B1DB90}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{206D01DF-EFDB-4D08-875D-3DA70202882C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{206D01DF-EFDB-4D08-875D-3DA70202882C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{206D01DF-EFDB-4D08-875D-3DA70202882C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{206D01DF-EFDB-4D08-875D-3DA70202882C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{AD2D4753-E956-4107-8BD4-09EAD10293BD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{AD2D4753-E956-4107-8BD4-09EAD10293BD}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{AD2D4753-E956-4107-8BD4-09EAD10293BD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{AD2D4753-E956-4107-8BD4-09EAD10293BD}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{41799A79-5FAC-44A7-AB47-BD16875A0611}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{41799A79-5FAC-44A7-AB47-BD16875A0611}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{41799A79-5FAC-44A7-AB47-BD16875A0611}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{41799A79-5FAC-44A7-AB47-BD16875A0611}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{41799A79-5FAC-44A7-AB47-BD16875A0611}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{41799A79-5FAC-44A7-AB47-BD16875A0611}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{E58659CA-5938-4234-BD41-01600EEC27B8}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E58659CA-5938-4234-BD41-01600EEC27B8}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{1BFD539E-26CE-40C4-B686-850669E82916}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{1BFD539E-26CE-40C4-B686-850669E82916}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{1BFD539E-26CE-40C4-B686-850669E82916}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{1BFD539E-26CE-40C4-B686-850669E82916}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{1BFD539E-26CE-40C4-B686-850669E82916}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{1BFD539E-26CE-40C4-B686-850669E82916}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{39565DD4-58B7-4CAD-BD13-BC7966969EDF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{39565DD4-58B7-4CAD-BD13-BC7966969EDF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

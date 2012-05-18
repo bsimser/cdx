@@ -1,0 +1,3 @@
+Content\Fonts\menufont.xnb
+Content\Fonts\gamefont.xnb
+Content\Images\background.xnb

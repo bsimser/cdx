@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\bin\Windows Phone\Debug\CdxLib.Samples.Physics.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="22/04/2012 6:42:40 AM">
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\Background.png" archivePath="Background.png" lastWriteTime="19/04/2012 7:30:55 AM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\PhoneGameThumb.png" archivePath="PhoneGameThumb.png" lastWriteTime="19/04/2012 7:30:55 AM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="19/04/2012 7:32:29 AM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="19/04/2012 6:21:44 PM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\bin\Windows Phone\Debug\CdxLib.Samples.Physics.dll" archivePath="CdxLib.Samples.Physics.dll" lastWriteTime="22/04/2012 6:42:39 AM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Core\bin\Windows Phone\Debug\CdxLib.Core.dll" archivePath="CdxLib.Core.dll" lastWriteTime="22/04/2012 6:42:38 AM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Physics\bin\Windows Phone\Debug\CdxLib.Physics.dll" archivePath="CdxLib.Physics.dll" lastWriteTime="22/04/2012 6:42:38 AM" />
+  <file source="C:\Projects\CdxLib\packages\FarseerPhysicsXNAWP7.3.3.1.37294\lib\net40-Client\FarseerPhysicsXNAWP7.dll" archivePath="FarseerPhysicsXNAWP7.dll" lastWriteTime="17/04/2012 12:51:13 PM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\bin\Windows Phone\Debug\Content\Fonts\debugfont.xnb" archivePath="Content\Fonts\debugfont.xnb" lastWriteTime="19/04/2012 6:21:47 PM" />
+  <file source="C:\Projects\CdxLib\CdxLib.Samples.Physics\CdxLib.Samples.Physics\bin\Windows Phone\Debug\Content\Sprites\crate.xnb" archivePath="Content\Sprites\crate.xnb" lastWriteTime="19/04/2012 6:21:48 PM" />
+</xapCache>

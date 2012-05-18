@@ -1,0 +1,6 @@
+C:\projects\BilSimser.Xna\BilSimser.Xna.Common\bin\Windows Phone\Debug\BilSimser.Xna.Common.dll
+C:\projects\BilSimser.Xna\BilSimser.Xna.Common\bin\Windows Phone\Debug\BilSimser.Xna.Common.pdb
+C:\projects\BilSimser.Xna\BilSimser.Xna.Common\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\projects\BilSimser.Xna\BilSimser.Xna.Common\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\projects\BilSimser.Xna\BilSimser.Xna.Common\obj\Windows Phone\Debug\BilSimser.Xna.Common.dll
+C:\projects\BilSimser.Xna\BilSimser.Xna.Common\obj\Windows Phone\Debug\BilSimser.Xna.Common.pdb

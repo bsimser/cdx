@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.0.6</version>
+    <authors>Bil Simser</authors>
+    <owners>Bil Simser</owners>
+    <projectUrl>http://cdxlib.codeplex.com</projectUrl>
+    <id>CdxLib.Core</id>
+    <title>CdxLib.Core</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CDX Lib is a set of helper classes and utilities to aid game developers building XNA games to the Windows Phone platoform.</description>
+    <releaseNotes>Pre-release</releaseNotes>
+  </metadata>
+  <files>
+    <file src="lib\CdxLib.Core.dll" target="lib\CdxLib.Core.dll" />
+  </files>
+</package>
